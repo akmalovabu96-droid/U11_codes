@@ -38,6 +38,7 @@ def send_report():
 
 send_report()
 
+# 3
 def count_calls(func):
     calls = 0
 
@@ -56,7 +57,7 @@ hello()
 hello()
 hello()
 
-
+# 4
 def admin_only(func):
     def wrapper(*args, **kwargs):
         role = kwargs.get('role')
