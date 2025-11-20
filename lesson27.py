@@ -1,14 +1,14 @@
 # Omborxona mini-CLI
 # products nomli dictionary orqali mahsulotlarni saqlash
-import logging
+# import logging
 
-logging.basicConfig(level=logging.DEBUG,
-                    filename='app.log',
-                    filemode='a',
-                    format='%(asctime)s - %(levelname)s - %(message)s')
+# logging.basicConfig(level=logging.DEBUG,
+#                     filename='app.log',
+#                     filemode='a',
+#                     format='%(asctime)s - %(levelname)s - %(message)s')
 
-logging.info('hello world')
-logging.debug('hello world')
+# logging.info('hello world')
+# logging.debug('hello world')
 
 products = {
     "coca-cola": {"narxi": 10000, "soni": 50},
