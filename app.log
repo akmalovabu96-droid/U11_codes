@@ -11,3 +11,11 @@
 2025-09-11 20:06:02,255 - DEBUG - hello world
 2025-09-11 20:10:45,166 - INFO - hello world
 2025-09-11 20:10:45,166 - DEBUG - hello world
+2025-10-09 16:33:35,911 - INFO - 2025-10-09 16:33:35 - display_info() \u2192 INFO: Lenovo ThinkPad, 2021-yil, narx: 900$
+2025-10-09 16:33:35,913 - INFO - 2025-10-09 16:33:35 - display_info() \u2192 INFO: Asus ZenBook, 2022-yil, narx: 1200$
+2025-10-09 16:33:35,913 - INFO - 2025-10-09 16:33:35 - set_price() \u2192 INFO: narx o'zgartirildi
+2025-10-09 16:33:35,914 - WARNING - 2025-10-09 16:33:35 - set_price() \u2192 WARNING: narx manfiy bo'lishi mumkin emas
+2025-10-09 16:33:35,914 - INFO - 2025-10-09 16:33:35 - add_product() \u2192 INFO: mahsulot qo'shildi
+2025-10-09 16:33:35,914 - ERROR - 2025-10-09 16:33:35 - add_product() \u2192 ERROR: noto'g'ri obyekt qo'shishga urindingiz
+2025-10-09 16:33:35,914 - INFO - 2025-10-09 16:33:35 - display_info() \u2192 INFO: Lenovo ThinkPad, 2021-yil, narx: 900$
+2025-10-09 16:33:35,914 - INFO - 2025-10-09 16:33:35 - list_products() \u2192 INFO: ro'yxat chaqirildi
