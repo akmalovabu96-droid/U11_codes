@@ -1,7 +1,7 @@
 from telegram import Update
 from telegram.ext import Updater, CommandHandler, CallbackContext, MessageHandler, Filters
 
-TOKEN = "8047728624:AAFOzFmIwIZPz1pw1BK5hIBLZyRedWDqm2c"
+TOKEN = "place_token"
 
 
 def start(update: Update, context: CallbackContext):
